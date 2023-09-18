@@ -1,2 +1,2 @@
 # tic-tac-toe
-Classic game remake of tic-tac-toe in C++
+Classic game remake: tic-tac-toe (C++)
